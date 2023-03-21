@@ -1,0 +1,7 @@
+pyTelegramBotAPI = 4.10.0
+python-telegram-bot = 13.7
+telebot = 0.0.5
+openpyxl = 3.1.2
+PyAutoGUI = 0.9.53
+PyGetWindow = 0.0.9
+PyMsgBox = 1.0.9
